@@ -11,3 +11,6 @@ Before:
 
 After:
 ![After](https://github.com/jakerothstein/ImageBackgroundAdder/assets/73565590/8a8c2741-57f1-4314-afb0-9e786267bbc4)
+
+# TODO
+Make the golang version able to process multiple files 
